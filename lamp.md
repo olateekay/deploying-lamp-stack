@@ -9,3 +9,5 @@ I installed Apache using Ubuntu’s package manager *apt*
 `$ sudo apt update`
 
 `$ sudo apt install apache2`
+
+![package upgrade](lamp1.jpg)
