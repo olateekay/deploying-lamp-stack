@@ -35,6 +35,12 @@ check how if you can access it locally in the Ubuntu shell by running,
 
 ![apache status](images\lamp6.jpg)
 
+open a web browser and try to access the url,
+
+`http://<Public-IP-Address>:80`
+
+![apache status](images\lamp7.jpg)
+
 
 
 
