@@ -10,4 +10,12 @@ I installed Apache using Ubuntu’s package manager *apt*
 
 `$ sudo apt install apache2`
 
-![package upgrade](lamp1.jpg)
+![package upgrade](images\lamp1.jpg)
+
+![apache install](images\lamp2.jpg)
+
+`$ sudo systemctl status apache2`
+
+![apache status](images\lamp3.jpg)
+
+
