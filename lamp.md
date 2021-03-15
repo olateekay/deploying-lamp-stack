@@ -42,6 +42,25 @@ open a web browser and try to access the url,
 ![apache status](images\lamp7.jpg)
 
 
+*Step 2 — Installing MySQL*
+
+`$ sudo apt install mysql-server`
+
+![apache status](images\lamp8.jpg)
+
+Run this script to remove some insecure default settings and lock down access to the database system.
+
+`$ sudo mysql_secure_installation`
+
+![apache status](images\lamp9.jpg)
+
+Test if you’re able to log in to the MySQL console by typing;
+
+`$ sudo mysql`
+
+![apache status](images\lamp10.jpg)
+
+
 
 
 
