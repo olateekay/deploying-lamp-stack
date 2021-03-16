@@ -10,9 +10,9 @@ I installed Apache using Ubuntu’s package manager *apt*
 
 `$ sudo apt install apache2`
 
-![package upgrade](deploying-lamp-stack/images/lamp1.jpg)
+![package upgrade](https://github.com/olateekay/deploying-lamp-stack/blob/main/images/lamp1.JPG)
 
-![apache install](images/lamp2.jpg)
+![apache install](https://github.com/olateekay/deploying-lamp-stack/blob/main/images/lamp2.JPG)
 
 `$ sudo systemctl status apache2`
 
